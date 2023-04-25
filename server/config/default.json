@@ -1,6 +1,5 @@
 {
     "port": 8080,
-    "mongoUri": "mongodb+srv://slavaprynikov:3g3t7Z3z6@cluster0.ko0lkcl.mongodb.net/?retryWrites=true&w=majority",
     "HOST": "mongo-db",
     "PORT": 27017,
     "DB": "fast-company",
